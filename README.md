@@ -3,6 +3,10 @@ Collection of cool projects I found on GitHub or other platforms.
 
 I might update this list in the future (or, more likely, abandon forever) when I find some tool I want to get back to later.
 
+### Online Tools
+
+- [regex101](https://regex101.com): Test regular expressions, or get explanations on how a specific RegEx works.
+- [grep.app](https://grep.app): A search engine for source code. For more details, click [here](./grepapp)!
 
 ### Browser Extensions
 
