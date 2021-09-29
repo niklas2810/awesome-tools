@@ -6,7 +6,7 @@ I might update this list in the future (or, more likely, abandon forever) when I
 ### Online Tools
 
 - [regex101](https://regex101.com): Test regular expressions, or get explanations on how a specific RegEx works.
-- [grep.app](https://grep.app): A search engine for source code. For more details, click [here](./grepapp)!
+- [grep.app](https://grep.app): A search engine for source code. For more details, click [here](./grepapp.md)!
 
 ### Browser Extensions
 
